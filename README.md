@@ -1,2 +1,9 @@
 # FEMA_Natural_Disaster_Final
 
+### For this project, I decided to do a new chart instead of fix an old one. I at first tried to do the Mapbox with hurricane information, but this did not work out. I originally scraped another website, but the information did not have enough information for me to do something demonstrating my creative abilities. I decided to switch to all natural disasters after this choice instead of sticking to hurricanes that hit inland for the U.S.
+
+### Once I found the site that I was going to scrape, I scraped their three charts, which I would use two of. For this, I used both Beautiful Soup and Playwright to extract this information. After this, I tried to use RAWGraphs to make a chart as I have not used this application before. None of the charts that I created were enough for this assignment, so I decided to only get the outline from RAWGraphs and create my own visualization in Illustrator from there. This is where I created the treemap of different pictures representing these natural disasters. 
+
+### After this, I tried Flourish as it is also another application that I had yet to use. I created a basic pie chart as this is the easiest way for this information to be interpreted. I felt like this helped understand the impact of what the billions of dollars mean. 
+
+### If I had more time, I would have definitely done interviews and added more to my writing. My writing for this project was the most lacking, but this project was meant more towards the visualization so I focused on that and data extraction. I would have also tried to get other data that I could analyze more, which I did not have time for. This is why I did these visualizations instead of the map in the end. 
