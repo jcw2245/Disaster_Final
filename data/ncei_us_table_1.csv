@@ -1,0 +1,17 @@
+Disaster Type,Events,Events/​Year,Percent Frequency,Total Costs,Percent of Total Costs,Cost/​Event,Cost/​Year,Deaths,Deaths/​Year
+Drought,32,0.7,7.9%,$367.6BCI,12.6%,$11.5B,$8.2B,"4,658†",104†
+Flooding,45,1.0,11.2%,$203.3BCI,7.0%,$4.5B,$4.5B,765,17
+Freeze,9,0.2,2.2%,$37.4BCI,1.3%,$4.2B,$0.8B,162,4
+Severe Storm,203,4.5,50.4%,$514.4BCI,17.6%,$2.5B,$11.4B,"2,145",48
+Tropical Cyclone,67,1.5,16.6%,"$1,543.3BCI",52.9%,$23.0B,$34.3B,"7,211",160
+Wildfire,23,0.5,5.7%,$147.9BCI,5.1%,$6.4B,$3.3B,537,12
+Winter Storm,24,0.5,6.0%,$104.2BCI,3.6%,$4.3B,$2.3B,"1,463",33
+All Disasters,403,9.0,100.0%,"$2,918.1BCI",100.0%,$7.2B,$64.8B,"16,941",376
+Drought,32,0.7,9.2%,$214.5BCI,10.6%,$6.7B,$4.8B,"4,658†",104†
+Flooding,38,0.8,11.0%,$119.5BCI,5.9%,$3.1B,$2.7B,666,15
+Freeze,8,0.2,2.3%,$15.5BCI,0.8%,$1.9B,$0.3B,162,4
+Severe Storm,168,3.7,48.6%,$365.4BCI,18.1%,$2.2B,$8.1B,"1,768",39
+Tropical Cyclone,62,1.4,17.9%,"$1,128.9BCI",55.9%,$18.2B,$25.1B,"7,168",159
+Wildfire,21,0.5,6.1%,$110.1BCI,5.5%,$5.2B,$2.4B,520,12
+Winter Storm,17,0.4,4.9%,$64.1BCI,3.2%,$3.8B,$1.4B,"1,120",25
+All Disasters,346,7.7,100.0%,"$2,018.0BCI",100.0%,$5.8B,$44.8B,"16,062",357
